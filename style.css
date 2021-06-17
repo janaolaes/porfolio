@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.jumbotron{
+	height: 50vh;
+}
+
+.carousel-img{
+	height: 500px;
+}
+
+./*navbar {
+	background-color: #ffa97a;
+	background-image: url("https://www.transparenttextures.com/patterns/checkered-light-emboss.png");
+}
+*/
