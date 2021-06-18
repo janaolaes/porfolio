@@ -1,19 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
 *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-family: 'Special Elite', cursive;
 }
 
 .jumbotron{
 	height: 50vh;
 }
 
-.carousel-img{
-	height: 500px;
+.navbar {
+	background-color: #8a8a8a;
+	background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
 }
 
-./*navbar {
-	background-color: #ffa97a;
-	background-image: url("https://www.transparenttextures.com/patterns/checkered-light-emboss.png");
+.col-about{
+	padding: 30px;
+
 }
-*/
+
+footer{
+	background-color: #8a8a8a;
+	background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+}
